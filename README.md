@@ -9,4 +9,5 @@ To transfer between gait cycles, I performed Neural Style Transfer [https://arxi
 Data folder contains small data from 2 walks that was used for extracting 2 gate cycle templates
 
 IDNet_dataset.csv is available at this link: https://drive.google.com/file/d/0Bz3fihKG133cOG13X2VXTXJqY1k/view 
-It contains data that has been converted to csv from the log data contained in IDNet dataset at this URL: http://signet.dei.unipd.it/human-sensing/
+
+IDNet_dataset.csv contains data that has been converted to csv from the log data contained in IDNet dataset at this URL: http://signet.dei.unipd.it/human-sensing/
