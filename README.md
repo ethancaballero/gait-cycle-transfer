@@ -11,3 +11,6 @@ Data folder contains small data from 2 walks that was used for extracting 2 gate
 IDNet_dataset.csv is available at this link: https://drive.google.com/file/d/0Bz3fihKG133cOG13X2VXTXJqY1k/view 
 
 IDNet_dataset.csv contains data that has been converted to csv from the log data contained in IDNet dataset at this URL: http://signet.dei.unipd.it/human-sensing/
+
+###### Acknowledgements
+- [@alexis-jacq](https://github.com/alexis-jacq)'s [Neural Style Transfer Tutorial](http://pytorch.org/tutorials/advanced/neural_style_tutorial.html)
